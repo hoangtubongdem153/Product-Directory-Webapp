@@ -24,6 +24,7 @@ Use this Credentials to Signup as a Admin.
 ## Root Directory 🏡 : /
 
 ## Deployment Link 🔗
+https://myapp-opal-alpha.vercel.app/
 
 ## Features ❤️
 - Products page where all the products is provided and user buy it accordingly.
