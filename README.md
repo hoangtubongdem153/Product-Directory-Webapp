@@ -6,6 +6,18 @@ https://blushing-underwear-newt.cyclic.app/prod
 ## Tech Stacks 🏠
 React.js, Redux, Chakra-UI, React-Components, HTML-CSS-JS
 
+## Demo Signup Credentials
+Use this Credentials to Signup as a user.
+
+``Email:renu12@gmail.com``
+
+``Password: renu@``
+
+Use this Credentials to Signup as a Admin.
+
+``Email: pushpendra1697@gmail.com``
+
+``Password: Push1697@``
 
 ## Root Directory 🏡 : /
 
