@@ -56,6 +56,15 @@ Then do the following steps:
 
 ## Screenshots
 ### Product Listing Blog
+
+![Screenshot (560)](https://github.com/Pushpendra-1697/Product-Directory/assets/104748364/e09b22d5-a529-4a22-ae80-477a0a129175)
+![Screenshot (565)](https://github.com/Pushpendra-1697/Product-Directory/assets/104748364/30da8bc9-3e8c-4f07-a51d-354abc06f415)
+
 ### Product Details Blog
 
+![Screenshot (562)](https://github.com/Pushpendra-1697/Product-Directory/assets/104748364/f69dd3da-4321-4f12-a108-ed0da3103678)
+
 ### Mobile View
+![Screenshot (564)](https://github.com/Pushpendra-1697/Product-Directory/assets/104748364/958b0903-ef87-4ffb-b5a7-db0d2816d333)
+![Uploading Screenshot (563).png…]()
+
