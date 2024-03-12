@@ -66,5 +66,4 @@ Then do the following steps:
 
 ### Mobile View
 ![Screenshot (564)](https://github.com/Pushpendra-1697/Product-Directory/assets/104748364/958b0903-ef87-4ffb-b5a7-db0d2816d333)
-![Uploading Screenshot (563).png…]()
-
+![Screenshot (563)](https://github.com/Pushpendra-1697/Product-Directory/assets/104748364/85887da9-b5be-447e-9354-2b5313b70135)
