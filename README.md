@@ -1,6 +1,8 @@
 # Product-Directory 🦾
 
-## Backend Data for Products 🖇️ : 
+Introducing our Product Directory - a user-friendly platform for seamless product discovery. Find what you need effortlessly with detailed listings and intuitive search features.
+
+## Backend Data for Products 🖇️
 https://blushing-underwear-newt.cyclic.app/prod
 
 ## Tech Stacks 🏠
@@ -34,10 +36,11 @@ Use this Credentials to Signup as a Admin.
 - All components are cross-device cross platform compatible.
 
 
-## Installation steps / How to run locally? ✌️
+## Installation steps / How to run locally ? ✌️
 
 Clone the Repository from Github.
 https://github.com/Pushpendra-1697/Product-Directory
+
 Then do the following steps:
 
 ```bash
